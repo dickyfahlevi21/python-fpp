@@ -1,6 +1,6 @@
 - [x] 1. Mode Most Frequent Number
 - [x] 2. Convert Number to String
 - [x] 3. Method Trim
-- [ ] 4. Querying JSON
-- [ ] 5. Combine Data
-- [ ] 6. Web Scrapping With Python
+- [x] 4. Querying JSON
+- [x] 5. Combine Data
+- [x] 6. Web Scrapping With Python
